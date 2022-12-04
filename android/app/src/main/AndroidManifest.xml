@@ -1,6 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.brunacrespomello.alura_flutter_widgets_stateless_stateful_images_and_animations">
-   <application
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <application
         android:label="alura_flutter_widgets_stateless_stateful_images_and_animations"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
@@ -30,5 +32,6 @@
         <meta-data
             android:name="flutterEmbedding"
             android:value="2" />
+
     </application>
 </manifest>
