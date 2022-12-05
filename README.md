@@ -1,16 +1,20 @@
-# alura_flutter_widgets_stateless_stateful_images_and_animations
+<h1>Flutter: Widgets, Stateless, Stateful, Images and Animations</h1>
 
-A new Flutter project.
+Take this Flutter course and:
 
-## Getting Started
+- Find out what Flutter is and what it's for;
+- Learn how to install Android Studio;
+- Learn how to install Flutter;
+- Create your first project;
+- Understand what Widgets are, how to categorize and manipulate them;
+- Understand what Stateless and Stateful Widgets are and their differences;
+- Learn how to add Animated Images and Widgets to your project;
+- See the importance of Refactoring in your project;
 
-This project is a starting point for a Flutter application.
+Screenshot app: 
 
-A few resources to get you started if this is your first Flutter project:
+<img src="app.png" alt="app">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Certificate: 'https://cursos.alura.com.br/certificate/c4cdb719-b1fc-4846-a8f8-795c4c68d95f'
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="cert.png" alt="certificate">
